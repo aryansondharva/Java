@@ -21,7 +21,7 @@ public class Input {
 }
 
 
-
+//
 // import java.util.Scanner;  // bring Scanner tool into your file
 // javaScanner sc = new Scanner(System.in);  // sc = your keyboard listener
 // javaSystem.out.println("Enter number 1: ");  // show message to user
